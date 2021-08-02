@@ -94,7 +94,7 @@
 #endif
 #ifndef Y_STOP_PIN
   #ifndef Y_MIN_PIN
-    #define Y_MIN_PIN                         42
+    #define Y_MIN_PIN                         14
   #endif
   #ifndef Y_MAX_PIN
     #define Y_MAX_PIN                         -1
